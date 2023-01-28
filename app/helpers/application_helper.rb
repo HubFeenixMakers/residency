@@ -56,7 +56,7 @@ module ApplicationHelper
   end
 
     def main_menu
-      [["/members" , "Resisent Artists"],["/stories" , "Stories"], ["/pictures" , "Gallery"],
+      [["/members" , "Resident Artists"],["/stories" , "Stories"], ["/pictures" , "Gallery"],
        ["/residency" , "Residency"] ]
     end
     def member_memu
