@@ -56,8 +56,8 @@ module ApplicationHelper
   end
 
     def main_menu
-      [["/members" , "Volunteers"],["/stories" , "Stories"], ["/pictures" , "Gallery"],
-       ["/volunteering" , "Volunteering"] ]
+      [["/members" , "Resisent Artists"],["/stories" , "Stories"], ["/pictures" , "Gallery"],
+       ["/residency" , "Residency"] ]
     end
     def member_memu
       items =[["/forum" ,"Forum"] , [main_app.member_path(current_member) , "Settings"]]

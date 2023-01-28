@@ -160,7 +160,7 @@
     text_align: left
     columns: '2'
   :header: Living
-  :text: "Volunteers live in their own shared community. There is usually between
+  :text: "Resisent Artists live in their own shared community. There is usually between
     6-12, rarely less or more.\r\nWhile you get to know many people this way, communal
     also requires everyone to participate (socially, cleaning etc)"
   :image_id: 0
@@ -194,7 +194,7 @@
     color: none
     text_align: center
     text_color: none
-  :header: Volunteering at Hub Feenix
+  :header: Residency at Hub Feenix
   :text: "Hub Feenix is a non-profit organisation hoping to bring all kinds of people
     together.\r\nWe welcome also travellers on a budget that prefer to work rather
     than pay money.\r\n\r\nMostly this happends through the [workaway site](https://www.workaway.info/en/host/735959816971),
@@ -326,7 +326,7 @@
     longer treks around the Hub.\r\n\r\n**Mushroom and berry picking** -popular Finnish
     hobby in the late summer and autumn! Great way to spend time in the forrest and
     possibly find some healthy ingredients for cooking.\r\n\r\n**Sharing your skills
-    with others** - it's fun to have little workshops together with other volunteers,
+    with others** - it's fun to have little workshops together with other residency,
     if you have any hobby or skill you would like to share with others. We've already
     had for example Japanese tea seremony, photographing, French bread baking, Jiujitsu,
     Yoga and so on..."
@@ -454,7 +454,7 @@
     subheader: ''
     text_color: none
     text_align: left
-  :header: Join the Hub as volunteer
+  :header: Join the Hub as resident artist
   :text: "If you want to apply, the best way is through workway.\r\n\r\nIn any case,
     a successful application usually contains the following:\r\n- your reason to join
     the Hub\r\n- details about you\r\n- the work you could contribute\r\n- your timing
