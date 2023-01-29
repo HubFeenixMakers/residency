@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/HubFeenixMakers/merged
-  revision: 3a15e58ee38dae847ff877c261ce9856e00c74fb
+  revision: 926f6ef197308263b3b9d1dd3db6041b89a81a9b
   specs:
     merged (0.1.0)
       active_hash
@@ -317,7 +317,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rchardet (1.8.0)
-    redcarpet (3.5.1)
+    redcarpet (3.6.0)
     regexp_parser (2.1.1)
     reline (0.3.2)
       io-console (~> 0.5)
@@ -396,7 +396,7 @@ GEM
     tilt (2.0.11)
     timeago_js (3.0.2.2)
     timeout (0.3.1)
-    tzinfo (2.0.5)
+    tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     warden (1.2.9)
       rack (>= 2.0.9)

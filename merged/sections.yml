@@ -207,7 +207,7 @@
   :updated_by: maijanposteja@gmail.com
   :id: 56
   :options:
-    columns: '4'
+    text_columns: '4'
     background: white
     color: none
     margin: none
@@ -354,6 +354,7 @@
   :id: 63
   :card_template: ''
   :options:
+    text_columns: 3
     background: white
     text_color: none
     margin: none
