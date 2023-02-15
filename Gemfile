@@ -18,6 +18,9 @@ gem "sassc-rails"
 gem 'haml-rails'
 gem 'html2haml'
 gem 'devise'
+gem 'devise-async'
+gem "sucker_punch", "~> 3.1"
+
 gem 'carrierwave', '>= 3.0.0.beta', '< 4.0'
 
 gem "ruby2js" , git: "https://github.com/ruby2js/ruby2js/" , branch: "haml_fix"
@@ -27,7 +30,9 @@ gem "simple_form" , "5.1.0"
 gem "simple_form_tailwind_css"
 gem 'kaminari'
 gem 'ransack'
-gem "devise-async"
+
+gem "pundit", "~> 2.3"
+
 
 gem "passenger" , "6.0.15" ,  require: "phusion_passenger/rack_handler"
 gem "bootsnap", require: false
@@ -51,7 +56,3 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
-
-gem "pundit", "~> 2.3"
-
-gem "sucker_punch", "~> 3.1"
